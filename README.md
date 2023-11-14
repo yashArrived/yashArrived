@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Tiwari</h1>
-<h3 align="center">A passionate frontend developer!!</h3>
+<h6 align="center">who is</h6>
+<h3 align="center">Developing to Develop !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwari74&label=Profile%20views&color=0e75b6&style=flat" alt="tiwari74" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs , NodeJs , MongoDB**
 
 - 📫 Reach me at : **yasharrived@gmail.com**
 
