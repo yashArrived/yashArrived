@@ -52,9 +52,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashArrived&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashArrived&theme=tokyonight" alt="Yash's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yasharrived&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
