@@ -14,12 +14,12 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year IT student (2025) | JSS Academy of Technical Education, Noida  
+- 🎓 B.Tech IT Graduate (2025)   
 - 🧑‍💻 Full Stack Developer — MERN stack enthusiast  
 - 🏆 **3× National Hackathon Winner** – Building fast, breaking faster  
-- ⚡ Currently working on scalable SaaS apps and open-source projects  
+- ⚡ Currently working on scalable SaaS apps and freelancing
 - 🛠️ I love writing clean code, solving real-world problems & scaling systems  
-- 📬 Let's connect: yasharrived@gmail.com | yashutiwari22@gmail.com
+- 📬 Let's connect: yashutiwari22@gmail.com
 
 ---
 
@@ -76,6 +76,8 @@
 - 🔒 A Women’s Safety App using location-based emergency tech  
 - 🚀 An early-stage dev community platform (like devTinder, but smarter 😉)  
 - 🧪 Playing with LLMs, AI agents & prompt engineering
+- ✨ Full time JOB
+- 📈 Freelance Projects
 
 ---
 
