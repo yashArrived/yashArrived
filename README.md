@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiwari74&label=Profile%20views&color=blueviolet&style=flat" alt="tiwari74" />
+  <img src="https://komarev.com/ghpvc/?username=tiwari74&label=Profile%20views&color=blueviolet&style=flat" alt="yashArrived" />
   <img src="https://img.shields.io/github/followers/yashArrived?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -50,15 +50,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwari74&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashArrived&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwari74&theme=tokyonight" alt="Yash's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashArrived&theme=tokyonight" alt="Yash's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwari74&layout=compact&theme=tokyonight" alt="Yash's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashArrived&layout=compact&theme=tokyonight" alt="Yash's Most Used Languages" />
 </p>
 
 ---
