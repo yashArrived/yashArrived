@@ -29,12 +29,8 @@
   <a href="https://linkedin.com/in/yashArrived/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yasharrived" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://www.codechef.com/users/yashArrived" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
-  </a>
+  
+
 </p>
 
 ---
