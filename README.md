@@ -45,21 +45,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,nodejs,express,mongodb,mysql,git,firebase,c,cpp" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashArrived&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
-</p
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashArrived&theme=tokyonight" alt="GitHub Streak" />
-</p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashArrived&layout=compact&theme=tokyonight" alt="Yash's Most Used Languages" />
-</p>
-
----
 
 ### 🧠 Fun Facts
 
